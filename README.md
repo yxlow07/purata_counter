@@ -17,9 +17,11 @@
 
 **Version 2.0.1**
 - Added color for target, green = doable / yellow = very hard but sure / red = impossible / blue = target too low already passed
-- Optimised the string too long / repetitive => Print one time will do _(Credit How Yi)_
+- Optimised the string too long / repetitive => Print one time will do _(Credit: How Yi)_
 - Optimised print colored to follow DRY concept
 - Added blank lines to help readability
 
 **Version 2.0.2**
-- Changed from int to float in the case of marks having decimal places such as cocurriculum _(Credit Zedex)_
+- Changed from int to float in the case of marks having decimal places such as cocurriculum _(Credit: Zedex)_
+- Update suggestions: 
+  - Enable students who had received all their marks to set target _(Credit: Zhi Xue)_

@@ -1,4 +1,4 @@
-from termcolor import colored
+from termcolor import *
 
 
 def pcm(msg, color):  # print colored message
