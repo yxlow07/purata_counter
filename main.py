@@ -28,7 +28,7 @@ for subject in pemberatAndMarks:
     try:
 
         inp = float(input(f"Your {subject} marks: "))
-        if 0 < inp <= 100:
+        if 0 <= inp <= 100:
             pemberatAndMarks[subject][1] = inp
     except:
         pass

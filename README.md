@@ -25,3 +25,6 @@
 - Changed from int to float in the case of marks having decimal places such as cocurriculum _(Credit: Zedex)_
 - Update suggestions: 
   - Enable students who had received all their marks to set target _(Credit: Zhi Xue)_
+
+**Version 2.0.3**
+- Fixed bug where 0 marks does not count
